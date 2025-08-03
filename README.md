@@ -14,7 +14,7 @@
 - 🔭 I’m currently working as a **Full Stack Developer**
 - 🌱 Currently improving skills in **DevOps & Scalable Systems**
 - 💬 Ask me about **Laravel, React, Next.js, Docker, Git, Linux**
-- 📫 Reach me at: **[saidbenamar.dev@gmail.com](mailto:saidbenamar312@gmail.com)**
+- 📫 Reach me at: **[saidbenamar312@gmail.com](mailto:saidbenamar312@gmail.com)**
 - ⚡ Fun fact: I love building beautiful & useful interfaces ✨
 
 ---
@@ -43,7 +43,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/saidbenamar](https://www.linkedin.com/in/said-benamar-2a8408334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/said-benamar-2a8408334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="[رابط portfolio أو behance أو dribbble]">
