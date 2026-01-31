@@ -20,7 +20,11 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,mysql,mongodb,docker,postman,java,redux,html,css,linux,git,github,python,flutter,springboot" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,mysql,mongodb,docker,postman,java,redux,html,css,linux,git,github,python,flutter" />
+  <br /><br />
+  <!-- Custom badges for Spring Boot & JEE -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 ---
