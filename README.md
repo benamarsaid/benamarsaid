@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Web Developer | Laravel & React Expert</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+NextJS;Docker+%7C+Linux+%7C+Git+%7C+Postman;NoSQL+%7C+MySQL+%7C+Redux+%7C+UML;Spring+Boot+%7C+JEE+%7C+Flutter+%7C+Design+Patterns;Let's+build+awesome+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+NextJS;Spring+Boot+%7C+JEE+%7C+Docker+%7C+Linux;NoSQL+%7C+MySQL+%7C+Redux+%7C+UML;Flutter+%7C+Design+Patterns+%7C+Trello;Let's+build+awesome+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,mysql,mongodb,docker,postman,java,redux,html,css,linux,git,github,python,flutter" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,mysql,mongodb,docker,postman,java,redux,html,css,linux,git,github,python,flutter,springboot" />
 </div>
 
 ---
