@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,mysql,mongodb,docker,postman,java,redux,html,css,linux,git,github,python,flutter" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="springboot" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="jee" />
+ 
 </div>
 
 ---
